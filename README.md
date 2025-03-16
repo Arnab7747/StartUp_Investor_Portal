@@ -1,4 +1,4 @@
-##Overview
+## Overview
 The Startup Investor Portal is a platform designed to connect startups with potential investors. It allows startups to showcase their businesses, pitch their ideas, and seek funding opportunities. Investors can browse through startup profiles, evaluate proposals, and invest in promising ventures.With a user-friendly interface and secure data management, the portal aims to streamline the investment process, making it easier for startups to gain exposure and funding while helping investors find innovative businesses to support.
 
 ## Getting Started
