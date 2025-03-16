@@ -1,6 +1,6 @@
 "use client";
 
-import CheckoutPage from "@/app/stripe-component/CheckoutPage";
+
 import convertToSubcurrency from "@/lib/convertToSubcurrency";
 import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
@@ -33,7 +33,7 @@ export default function Home() {
         }}
       >
         
-        <CheckoutPage amount={amount} />
+      
       </Elements>
     </div>
     </div>
